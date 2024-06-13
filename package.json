@@ -1,7 +1,7 @@
 {
     "name": "my-portfolio",
     "author": "Ganesh Manikanta Sanchi",
-    "homepage": "https://ganesh32978.github.io/my-portfolio.", 
+    "homepage": "https://ganesh32978.github.io/my-portfolio" , 
     "version": "2.0.0",
     "private": true,
     "dependencies": {
